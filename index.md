@@ -34,9 +34,33 @@ permalink: /contact/
                 <li>School email: <span><a href="omkpat22@bergen.org">omkpat22@bergen.org</a></span></li>
             </ul>    
         </div>
-        {% include footer.html %}
     </div>
 </div>
+
+---
+permalink: /projects/
+---
+
+<html lang="en">
+<head>
+  
+</head>
+<body>
+
+<div class="container">
+    <div class="main">
+        <div class="slider"><h1>Projects</h1></div>
+        <div class="content">
+            Here's what I'm working on right now:
+            <ul>
+                <li><a href="https://github.com/YourBCABus/yourbcabus-android">YourBCABus (Android) - A mobile interface for the BCA bus system.</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
 
 
 <footer>
