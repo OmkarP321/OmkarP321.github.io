@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
     <meta charset="utf-8">
@@ -24,5 +24,5 @@
 <footer>
   <p>©Copyright 2018 Omkar Pathak. All rights reserved. </p>
 </footer>
-  </body>
+</body>
 </html>
