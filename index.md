@@ -10,8 +10,6 @@
 </head>
 <body>
   <html lang="en">
-<head>
-</head>
 <body>
 
 <div class="container">
@@ -21,13 +19,7 @@
           I am currently in the process of uploading more of my notes to this website. Stay tuned for more updates! For a preview, you can check this sample of my Math Team Combinatorics Problem Set Solutions:
           <ul>
             <li><a href="https://www.overleaf.com/read/tppjwqcdxdmd"> Sample</a>
-   
-<html lang="en">
-<head>
-  
-</head>
-<body>
-
+          </ul>       
 <div class="container">
     <div class="main">
         <div class="slider"><h1>Projects</h1></div>
