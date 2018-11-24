@@ -2,7 +2,27 @@
 <html>
   <head>
     <meta charset="utf-8">
-    
     <title> Omkar Pathak </title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="style.css">
+</head> 
+  <body> Omkar Pathak
+    <header>
+      <h1> Omkar Pathak </h1>
+      <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Our team</a></li>
+        <li><a href="#">Projects</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+<main>
+  Welcome! My name is Omkar Pathak, and this is my website featuring my notes for my classes at school and other projects!
 
-</html?
+</main>
+
+<footer>
+  <p>©Copyright 2018 Omkar Pathak. All rights reserved. </p>
+</footer>
+  </body>
+</html>
