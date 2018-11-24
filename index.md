@@ -16,12 +16,13 @@
   Welcome! My name is Omkar Pathak, and this is my website featuring my notes for my classes at school and other projects!
 
 </main>
-
+---
 permalink: /contact/
+---
 <head>
 </head>
 <body>
- 
+
  <div class="container">
     <div class="main">
         <div class="slider"><h1>Contact</h1></div>
