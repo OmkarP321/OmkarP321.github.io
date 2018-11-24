@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title> Omkar Pathak </title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="style.css">
 </head> 
