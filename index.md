@@ -5,20 +5,9 @@
     <meta charset="utf-8">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="style.css">
-</head>
-      <nav>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Projects</a></li>
-        <li><a href="#">Contact</a></li>
-        </ul>
-<main>
   Welcome! My name is Omkar Pathak, and this is my website featuring my notes for my classes at school and other projects!
 
 </main>
----
-permalink: /contact/
----
 <head>
 </head>
 <body>
@@ -37,9 +26,6 @@ permalink: /contact/
     </div>
 </div>
 
----
-permalink: /projects/
----
 
 <html lang="en">
 <head>
@@ -53,7 +39,7 @@ permalink: /projects/
         <div class="content">
             Here's what I'm working on right now:
             <ul>
-                <li><a href="https://github.com/YourBCABus/yourbcabus-android">YourBCABus (Android) - A mobile interface for the BCA bus system.</a></li>
+                <li><a href="https://github.com/OmkarP321/OmkarP321.github.io">This website is my main project for know.</a></li>
             </ul>
         </div>
     </div>
