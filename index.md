@@ -4,8 +4,7 @@
     <meta charset="utf-8">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="style.css">
-</head> 
-  <body> Omkar Pathak
+</head>
     <header>
       <h1> Omkar Pathak </h1>
       <nav>
