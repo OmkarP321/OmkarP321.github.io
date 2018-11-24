@@ -16,7 +16,7 @@
           <ul>
             <li><a href="https://www.overleaf.com/read/tppjwqcdxdmd"> Sample</a>
             </li>  
-            </div>
+           
 <div class="container">
     <div class="main">
         <div class="slider"><h1>Projects</h1></div>
@@ -41,9 +41,9 @@
         </div>
     </div>
 </div>
-</body>
+
 <footer>
   <p>©Copyright 2018 Omkar Pathak. All rights reserved. </p>
 </footer>
-</html>
+
 
