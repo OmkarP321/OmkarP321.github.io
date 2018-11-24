@@ -21,9 +21,7 @@
           I am currently in the process of uploading more of my notes to this website. Stay tuned for more updates! For a preview, you can check this sample of my Math Team Combinatorics Problem Set Solutions:
           <ul>
             <li><a href="https://www.overleaf.com/read/tppjwqcdxdmd"> Sample</a>
-        </div>
-    </div>
-</div>
+   
 <html lang="en">
 <head>
   
