@@ -17,6 +17,7 @@
             <li> <a href = "https://www.overleaf.com/read/fzsmsymhsmxc"> Chemistry 9 Unit 3 Notes </a> </li>
             <li> <a href = "https://www.overleaf.com/read/nshfqnjkcxkz"> Discrete I Trimester 1 Notes </a> </li>
             <li> <a href = "https://www.overleaf.com/read/prtbqfksmgzt"> Discrete I Trimester 2 Notes </a> </li>
+            <li> <a href = "https://v1.overleaf.com/read/qfkjnfpvdsxv"> AoPS Introduction to Geometry Solutions</a> </li>
           </ul>
 <div class="container">
     <div class="main">
