@@ -12,12 +12,12 @@
     <div class="main">
         <div class="slider"><h1>Notes</h1></div>
       <div class="content">
-          I am currently in the process of uploading more of my notes to this website. Stay tuned for more updates! For a preview, you can check this sample of my Math Team Combinatorics Problem Set Solutions:
           <ul>
             <li><a href="https://www.overleaf.com/read/tppjwqcdxdmd"> Sample</a>
             </li>  
-            <il> <a href = "https://www.overleaf.com/read/fzsmsymhsmxc"> Chemistry Unit 3 Notes </a>
+            <li> <a href = "https://www.overleaf.com/read/fzsmsymhsmxc"> Chemistry 9 Unit 3 Notes </a>
               </li>
+        </ul>
            
 <div class="container">
     <div class="main">
