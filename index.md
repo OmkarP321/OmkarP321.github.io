@@ -13,8 +13,7 @@
         <div class="slider"><h1>Notes</h1></div>
       <div class="content">
           <ul>
-            <li><a href="https://www.overleaf.com/read/tppjwqcdxdmd">Math Team Combinatorics pset Solutions</a>
-            </li>  
+            <li><a href="https://www.overleaf.com/read/tppjwqcdxdmd">Math Team Combinatorics pset Solutions</a> 
             <li> <a href = "https://www.overleaf.com/read/fzsmsymhsmxc"> Chemistry 9 Unit 3 Notes </a>
             <li> <a href = "https://www.overleaf.com/read/nshfqnjkcxkz"> Discrete I Trimester 1 Notes </a>
             <li> <a href = "https://www.overleaf.com/read/prtbqfksmgzt"> Discrete I Trimester 2 Notes </a>
