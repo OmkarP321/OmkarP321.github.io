@@ -33,7 +33,7 @@
     <div class="main">
         <div class="slider"><h1>Contact</h1></div>
         <div class="content">
-            I usually talk to people on Discord @FireRealm. You can also text me on Google Hangouts at omkarp321@gmail.com<br>
+            I usually talk to people on Discord @FireRealm. You can also text me on Google Hangouts at omkarp321@gmail.com.
             <ul>
                 <li>Personal email: <span><a href="mailto:omkarp321@gmail.com">omkarp321@gmail.com</a></span></li>
                 <li>School email: <span><a href="omkpat22@bergen.org">omkpat22@bergen.org</a></span></li>
