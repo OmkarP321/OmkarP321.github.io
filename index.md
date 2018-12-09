@@ -29,8 +29,7 @@
             </ul>
         </div>
     </div>
-</div>
-
+</div
 <div class="container">
     <div class="main">
         <div class="slider"><h1>Contact</h1></div>
