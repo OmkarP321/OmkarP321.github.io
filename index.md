@@ -43,9 +43,9 @@
         </div>
     </div>
 </div>
-
 <footer>
   <p>©Copyright 2018 Omkar Pathak. All rights reserved. </p>
 </footer>
+</body>
 
 
