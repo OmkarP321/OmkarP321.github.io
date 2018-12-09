@@ -18,7 +18,7 @@
             <li> <a href = "https://www.overleaf.com/read/fzsmsymhsmxc"> Chemistry 9 Unit 3 Notes </a>
             <li> <a href = "https://www.overleaf.com/read/nshfqnjkcxkz"> Discrete I Trimester 1 Notes </a>
             <li> <a href = "https://www.overleaf.com/read/prtbqfksmgzt"> Discrete I Trimester 2 Notes </a>
-         </ul>
+          <ul>    
 <div class="container">
     <div class="main">
         <div class="slider"><h1>Projects</h1></div>
@@ -45,6 +45,5 @@
 <footer>
   <p>©Copyright 2018 Omkar Pathak. All rights reserved. </p>
 </footer>
-</body>
 
 
