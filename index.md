@@ -25,7 +25,7 @@
         <div class="content">
             Here's what I'm working on right now:
             <ul>
-                <li><a href="https://github.com/OmkarP321/OmkarP321.github.io">This website is my main project for now.</a></li>
+                <li><a href="https://github.com/OmkarP321/OmkarP321.github.io">This website is my main project for now.</a>
             </ul>
         </div>
     </div>
