@@ -16,6 +16,8 @@
           <ul>
             <li><a href="https://www.overleaf.com/read/tppjwqcdxdmd"> Sample</a>
             </li>  
+            <il> <a href = "https://www.overleaf.com/read/fzsmsymhsmxc"> Chemistry Unit 3 Notes </a>
+              </li>
            
 <div class="container">
     <div class="main">
