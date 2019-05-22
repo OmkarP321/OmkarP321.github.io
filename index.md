@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="style.css">
-  Welcome! My name is Omkar Pathak, and this is my website featuring my notes for my classes at school and other projects!
+  Welcome! My name is Omkar Pathak, and this is my website featuring my notes for my classes at school and other projects! (201).300.7358
   <html lang="en">
 <body>
 <div class="container">
