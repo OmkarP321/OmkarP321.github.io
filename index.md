@@ -16,7 +16,7 @@
             <li><a href="https://www.overleaf.com/read/tppjwqcdxdmd">Math Team Combinatorics pset Solutions</a> </li>
             <li> <a href = "https://www.overleaf.com/read/fzsmsymhsmxc"> Chemistry 9 Unit 3 Notes </a> </li>
             <li> <a href = "https://www.overleaf.com/read/nshfqnjkcxkz"> Discrete I Trimester 1 Notes </a> </li>
-            <li> <a href = "https://www.overleaf.com/read/prtbqfksmgzt"> Discrete I Trimester 2 Notes </a> </li>z
+            <li> <a href = "https://www.overleaf.com/read/prtbqfksmgzt"> Discrete I Trimester 2 Notes </a> </li>
           </ul>
 <div class="container">
     <div class="main">
