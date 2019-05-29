@@ -37,7 +37,7 @@
             <ul>
                 <li>Personal email: <span><a href="mailto:omkarp321@gmail.com">omkarp321@gmail.com</a></span></li>
                 <li>School email: <span><a href="omkpat22@bergen.org">omkpat22@bergen.org</a></span></li>
-              <li> Phone Number: 201-785-4237 </li>
+              <li> Phone Number: (201)-785-4237 </li>
             </ul>    
         </div>
     </div>
