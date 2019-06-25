@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="style.css">
-  Welcome! My name is Omkar Pathak, and this is my website featuring my notes for my classes at school and other projects! 201.300.7358
+  Welcome! My name is Omkar Pathak, and this is my website featuring my notes for my classes at school and other projects!
   <html lang="en">
 <body>
 <div class="container">
@@ -14,7 +14,6 @@
       <div class="content">
           <ul>
             <li><a href="https://www.overleaf.com/read/tppjwqcdxdmd">Math Team Combinatorics pset Solutions</a> </li>
-            <li> <a href = "https://www.overleaf.com/read/fzsmsymhsmxc"> Chemistry 9 Unit 3 Notes </a> </li>
             <li> <a href = "https://www.overleaf.com/read/nshfqnjkcxkz"> Discrete I Trimester 1 Notes </a> </li>
             <li> <a href = "https://www.overleaf.com/read/prtbqfksmgzt"> Discrete I Trimester 2 Notes </a> </li>
           </ul>
@@ -43,7 +42,7 @@
     </div>
 </div>
 <footer>
-  <p>©Copyright 2018 Omkar Pathak. All rights reserved. </p>
+  <p>©Copyright 2019 Omkar Pathak. All rights reserved. </p>
 </footer>
 
 
